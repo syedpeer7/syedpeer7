@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🧠 Student of Artificial Intelligence & Machine Learning — always hungry for knowledge (and sometimes pizza 🍕)
+- 🧠 Student of Artificial Intelligence & Machine Learning — always hungry for knowledge 
 - 💡 I love building application-oriented projects that make a real difference!
 - 🎮 Gamer at heart: whether it’s online or offline, I’m always up for a challenge
 - 📚 Bookworm, anime watcher, and a certified project tinkerer
@@ -52,7 +52,7 @@ OpenAI (ChatGPT), Claude, Gemini API, Stability API, Bolt AI, Lovable, There’s
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-peer-b01ab9265/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=netlify)](https://ai-powered-resume-glow.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=netlify)]([https://syedportfolio-xi.vercel.app/])
 
 ---
 
