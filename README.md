@@ -52,7 +52,7 @@ OpenAI (ChatGPT), Claude, Gemini API, Stability API, Bolt AI, Lovable, There’s
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-peer-b01ab9265/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=netlify)]([https://syedportfolio-xi.vercel.app/])
+[![Portfolio]()]([https://syedportfolio-xi.vercel.app/])
 
 ---
 
