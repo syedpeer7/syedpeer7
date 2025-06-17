@@ -1,71 +1,70 @@
-<!-- Syed Peer | syedpeer7 -->
+<!--
+Hi there! Welcome to syedpeer7's GitHub profile 🎉
+-->
+
+<h1 align="center">
+  Hi 👋, I'm Syed Peer
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=650&lines=Student+%7C+Developer+%7C+AI+Enthusiast;Lifelong+Learner+%F0%9F%92%AB" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=00B8D9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Syed+Peer!;Student+%7C+AI+%26+Web+Dev+Enthusiast;Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together+%F0%9F%92%BB" alt="Animated Greeting" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzl1aDhjb3ZwanJ0dGYxNTNwbnZxY3Zya3BlcGZnODdqNmVwM3FjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRv0ThflsHCqDrG/giphy.gif" width="120"/>
+  <img src="https://komarev.com/ghpvc/?username=syedpeer7&label=Profile%20views&color=7F3FBF&style=flat" alt="syedpeer7" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 **Student** passionate about technology, AI, and web development.
-- 🌱 Currently learning and building with the latest in **Machine Learning**, **Deep Learning**, and **Cloud** tools.
-- 🚀 I love experimenting with new APIs and deploying projects to the web!
+## 🚀 About Me
+
+- 🎓 &nbsp; I’m a **student** passionate about technology, coding, and AI innovation.
+- 💻 &nbsp; I build awesome projects using **Python, JavaScript, React, Node.js, Flask, Streamlit, and more**.
+- 🤖 &nbsp; I love exploring **Machine Learning, Deep Learning, NLP, and Computer Vision** using frameworks like TensorFlow, PyTorch, Keras, and OpenCV.
+- ☁️ &nbsp; Comfortable deploying apps on **Netlify, Vercel, Render, and Google Cloud Platform**.
+- 🚀 &nbsp; All my projects are built with care and curiosity—check them out below!
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ```yaml
-Programming Languages: Python, JavaScript, Java, C
-Web Development:      HTML, CSS, JavaScript, React, Node.js, Flask, Streamlit
-Machine Learning:     TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy
-AI & Computer Vision: Deep Learning, CNNs, NLP, OpenCV, MediaPipe
-Cloud & Deployment:   Netlify, Vercel, Render, GCP
-Databases:            MongoDB, NoSQL
-Dev Tools:            Git, GitHub
-AI APIs & Tools:      OpenAI (ChatGPT), Claude, Gemini API, Stability API, Bolt AI, Lovable, There’s An AI For That
+Programming: Python, JavaScript, Java, C
+Web: HTML, CSS, React, Node.js, Flask, Streamlit
+ML/AI: TensorFlow, PyTorch, Keras, scikit-learn, Pandas, NumPy, CNNs, NLP, OpenCV, MediaPipe
+Cloud: Netlify, Vercel, Render, GCP
+Databases: MongoDB, NoSQL
+Tools: Git, GitHub
+APIs: OpenAI (ChatGPT), Claude, Gemini API, Stability API, Bolt AI, Lovable, There’s An AI For That
 ```
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
-> 💡 All of my GitHub projects are **awesome**—feel free to explore and star your favorites!
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedpeer7&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=syedpeer7&theme=radical" alt="GitHub Streak" height="180" />
-</p>
+> _All of my GitHub projects are good projects!_  
+> **Explore and star your favorites below 👇**
 
 ---
 
-### 💬 Total Comments (Animated)
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-peer-b01ab9265)
+[![Website](https://img.shields.io/badge/Portfolio-7F3FBF?logo=vercel&logoColor=white)](https://syedportfolio-xi.vercel.app)
+
+---
+
+## 🎲 Fun with Commits
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=600&color=36CFFF&center=true&vCenter=true&width=550&lines=Comments+make+me+%F0%9F%98%83;Drop+a+comment+on+my+projects!;I+love+feedback+and+collaboration!;Let's+connect+via+issues+and+PRs!" alt="Animated Comments" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedpeer7&show_icons=true&theme=tokyonight" alt="Syed's GitHub stats" height="180"/>
   <br>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Animated Character" height="90" />
-  <br>
-  <img src="https://img.shields.io/github/issues-closed/syedpeer7?label=Comments+Answered&logo=github&color=brightgreen" alt="Comments Badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Watch+my+animated+commit+character+grow!;Code,+Commit,+Repeat+%F0%9F%94%A5" alt="Commit Animation"/>
 </p>
 
----
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-peer-b01ab9265)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel)](https://syedportfolio-xi.vercel.app)
+<!-- You can embed or link to an animated SVG or a custom animation of your own here! -->
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
 
 <!--
-Profile README generated with GitHub Copilot.
+✨ Always building, always learning. Let's connect and create something amazing together!
 -->
