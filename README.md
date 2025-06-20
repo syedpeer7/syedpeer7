@@ -10,7 +10,7 @@ Hi there! Welcome to syedpeer7's GitHub profile 🎉
 
 <p align="center">
   <h3 align="center">👀 Total Profile Visits 👀</h3>
-  <img src="https://count.getloli.com/get/@syedpeer7?theme=nixietube-1"/>
+  <img src="https://count.getloli.com/get/@syedpeer7?theme=nixietube-1"align="center"/>
   
 </p>
 
