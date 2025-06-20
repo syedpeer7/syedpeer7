@@ -9,8 +9,8 @@ Hi there! Welcome to syedpeer7's GitHub profile 🎉
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzl1aDhjb3ZwanJ0dGYxNTNwbnZxY3Zya3BlcGZnODdqNmVwM3FjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRv0ThflsHCqDrG/giphy.gif" width="120"/>
-  <img src="https://komarev.com/ghpvc/?username=syedpeer7&label=Profile%20views&color=7F3FBF&style=flat" alt="syedpeer7" />
+  <img src="https://count.getloli.com/get/@syedpeer7?theme=nixietube-1"/>
+  
 </p>
 
 ---
