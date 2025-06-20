@@ -62,6 +62,12 @@ APIs: OpenAI (ChatGPT), Claude, Gemini API, Stability API, Bolt AI, Lovable, The
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Watch+my+animated+commit+character+grow!;Code,+Commit,+Repeat+%F0%9F%94%A5" alt="Commit Animation"/>
 </p>
 
+---
+<p align="center">
+  <a href="https://github.com/JPKrishna28">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedpeer7&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
+  </a>
+</p>
 <!-- You can embed or link to an animated SVG or a custom animation of your own here! -->
 
 ---
