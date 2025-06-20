@@ -7,9 +7,9 @@ Hi there! Welcome to syedpeer7's GitHub profile 🎉
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=650&lines=Student+%7C+Developer+%7C+AI+Enthusiast;Lifelong+Learner+%F0%9F%92%AB" alt="Typing SVG" />
 </h1>
-
+<h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
-  <h3 align="center">👀 Total Profile Visits 👀</h3>
+
   <img src="https://count.getloli.com/get/@syedpeer7?theme=nixietube-1"align="center"/>
   
 </p>
